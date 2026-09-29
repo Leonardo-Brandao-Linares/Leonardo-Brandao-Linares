@@ -31,4 +31,4 @@
     - JavaScript
 ---
 ### Contato
-  -Entre em contato comigo pelo Email: brandao.linares@aluno.ifsp.edu.br
+  - Entre em contato comigo pelo Email: brandao.linares@aluno.ifsp.edu.br
