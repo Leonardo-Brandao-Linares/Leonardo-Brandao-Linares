@@ -3,10 +3,16 @@
   - Estudante de Desenvolvimento de Sistemas no Instituto Federal de Ciências e Tecnologias
   - Aprendendo programação desde *~2016*
   - Em busca de me tornar um desenvolvedor de jogos
-  
+---
+### Trabalhando em:
+  - Overheat's Spiritual Successor
+
+  - Bad Words Are Forbidden
+  - 
+  - 
+  - 
   
 
----
 
 <!--
 **Leonardo-Brandao-Linares/Leonardo-Brandao-Linares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
