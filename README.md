@@ -3,28 +3,32 @@
   - Estudante de Desenvolvimento de Sistemas no Instituto Federal de Ciências e Tecnologias
   - Aprendendo programação desde *~2016*
   - Em busca de me tornar um desenvolvedor de jogos
+  - Pronomes: Ele/Dele
 ---
 ### Trabalhando em:
   - Overheat's Spiritual Successor
-
   - Bad Words Are Forbidden
+  - Ranet Adventure's 2
   - 
-  - 
-  - 
-  
 
-
-<!--
-**Leonardo-Brandao-Linares/Leonardo-Brandao-Linares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Aprendendo:
+  - Arquitetura de Redes e Computadores
+    - Endereçagem IP
+    - Internet das Coisas
+    - TI Verde
+  - Logica de Programação
+    - C
+    - Python
+  - Informática e Ferramentas de Desenvolvimento
+    - Terminal Linux
+    - Git
+    - GitHub
+    - Planilhas Eletrônicas
+  - Princípios de Desenvolvimento Web
+    - HTML
+    - CSS
+    - JavaScript
+---
+### Contato
+  -Entre em contato comigo pelo Email: brandao.linares@aluno.ifsp.edu.br
